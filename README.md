@@ -1,4 +1,5 @@
 # IDD Prevalence Map — United States
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20384087.svg)](https://doi.org/10.5281/zenodo.20384087)
 
 An interactive choropleth map visualizing estimated **Intellectual and Developmental Disability (IDD) prevalence** per 1,000 population across all 50 U.S. states and Washington, D.C.
 
