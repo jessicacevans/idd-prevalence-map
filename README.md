@@ -50,7 +50,15 @@ Values are modeled estimates drawn from peer-reviewed literature and federal sur
 
 **Jessica Clérc Evans**
 Civil & Environmental Engineer | Environmental Justice Researcher | Community Advocate
-🌐 [jessicacevans.com](https://www.jessicacevans.com)
+🔬 [ORCID: 0009-0003-3626-1069](https://orcid.org/0009-0003-3626-1069) 🌐 [jessicacevans.com](https://www.jessicacevans.com)
+
+
+## Citation
+
+If you use or reference this map, please cite:
+
+Evans, J.C. (2026). IDD Prevalence Across U.S. States: Interactive Choropleth Map.
+Zenodo. https://doi.org/10.5281/zenodo.20384087
 
 
 ## License
